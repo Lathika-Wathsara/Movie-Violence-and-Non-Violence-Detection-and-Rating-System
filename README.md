@@ -86,7 +86,6 @@ Below is an image that visualizes different violent categories from the XD-Viole
 - TensorFlow 2.7
 - Keras
 - MoviePy
-- FFmpeg
 - Scikit-learn
 - OpenCV
 
