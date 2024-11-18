@@ -75,7 +75,6 @@ Below is an image that visualizes different violent categories from the XD-Viole
 
 ![Violence Categories](https://github.com/Lathika-Wathsara/Movie-Violence-and-Non-Violence-Detection-and-Rating-System/blob/d3a877be73b2155f04f644a580305f732b21a1eb/Categories.jpg)
 
-> Replace the link with the appropriate one to your dataset image or diagram.
 
 ---
 
