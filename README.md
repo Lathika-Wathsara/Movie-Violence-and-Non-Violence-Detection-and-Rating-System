@@ -46,7 +46,7 @@ This repository contains a system designed to detect and classify violent conten
 
 Below is the high-level flow diagram of the Violence Content Detection System:
 
-![System Flow Diagram](path/to/your/flow_diagram.png)
+![System Flow Diagram]((https://github.com/Lathika-Wathsara/Movie-Violence-and-Non-Violence-Detection-and-Rating-System/blob/e07f7684e3b6f9198fac6aba9f5bdd97de577085/Flow%20diagram.jpg))
 
 > Replace path/to/your/flow_diagram.png with the relative path to your flow diagram image in the repository.
 
