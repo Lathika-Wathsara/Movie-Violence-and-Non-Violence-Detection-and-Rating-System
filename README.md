@@ -1,6 +1,7 @@
 # Movie-Violence-and-Non-Violence-Detection-and-Rating-System
 
 
+
 This repository contains a system designed to detect and classify violent content in movies. The module leverages advanced machine learning and image processing techniques to analyze video clips and audio data, classifying violent scenes into specific categories.
 
 ---
@@ -56,14 +57,25 @@ Below is the high-level flow diagram of the Violence Content Detection System:
 The module uses the following datasets:
 
 1. *Multi-class Violent Dataset*  
-   - Contains movie clips from 6 violent classes derived from XD-Violence dataset definitions and 1 non-violent class.  
+   - Contains movie clips from 6 violent classes derived from XD-Violence dataset definitions and 1 non-violent class.
+   - [Download Multi-class Violent Dataset](https://drive.google.com/drive/folders/158ceibgYDFB6q0fiuF9sjJjQCulgtK2f?usp=sharing)  
 
 2. *Blood Detection Dataset*  
    - Contains 2 classes: blood and non-blood.  
    - Includes images of red-colored objects to improve robustness.  
-   - [Download Blood Detection Dataset](link-to-dataset)
+   - [Download Blood Detection Dataset](https://drive.google.com/drive/folders/158ceibgYDFB6q0fiuF9sjJjQCulgtK2f?usp=sharing)
 
-> Replace link-to-dataset with the actual dataset links.
+3. *Audio Dataset*  
+   - Contains audio clips derived from the same 6 violent classes in the multi-class violent dataset and a non-violent class.
+   - Includes environmental sounds, fight noises, explosion sounds, and more to improve robustness.
+   - [Download Audio Dataset](https://drive.google.com/drive/folders/158ceibgYDFB6q0fiuF9sjJjQCulgtK2f?usp=sharing)
+
+### Violence Categories  
+Below is an image that visualizes different violent categories from the XD-Violence dataset:
+
+![Violence Categories](https://drive.google.com/file/d/1vi7PzDFhEV2kXWr2g2GzMdRzLeCWclKE/view?usp=sharing)
+
+> Replace the link with the appropriate one to your dataset image or diagram.
 
 ---
 
@@ -77,3 +89,5 @@ The module uses the following datasets:
 - FFmpeg
 - Scikit-learn
 - OpenCV
+
+
