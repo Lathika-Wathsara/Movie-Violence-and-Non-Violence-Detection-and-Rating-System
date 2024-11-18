@@ -73,7 +73,7 @@ The module uses the following datasets:
 ### Violence Categories  
 Below is an image that visualizes different violent categories from the XD-Violence dataset:
 
-![Violence Categories]([https://drive.google.com/file/d/1vi7PzDFhEV2kXWr2g2GzMdRzLeCWclKE/view?usp=sharing](https://github.com/Lathika-Wathsara/Movie-Violence-and-Non-Violence-Detection-and-Rating-System/blob/07383d68a37cee72331c790f7c65b0b0f0ba3eb6/Categories.jpg)
+![Violence Categories](https://github.com/Lathika-Wathsara/Movie-Violence-and-Non-Violence-Detection-and-Rating-System/blob/d3a877be73b2155f04f644a580305f732b21a1eb/Categories.jpg)
 
 > Replace the link with the appropriate one to your dataset image or diagram.
 
